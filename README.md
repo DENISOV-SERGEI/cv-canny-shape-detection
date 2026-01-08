@@ -36,7 +36,7 @@ git clone https://github.com/DENISOV-SERGEI
 pip install -r requirements.txt
 
 4. Открыть и выполнить ноутбук:
-...
+```
 
 
 ## ⚙️ Алгоритм работы
