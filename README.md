@@ -29,15 +29,15 @@
 ```bash
 git clone https://github.com/DENISOV-SERGEI
 /canny-shape-detection.git
-
+```
 2. Перейти в папку проекта:
 ```bash
 cd canny-shape-detection
-
+```
 3. Установить зависимости:
 ```bash
 pip install -r requirements.txt
-
+```
 4. Открыть и выполнить ноутбук:
 ```bash
 - открыть файл canny_shape_detection.ipynb
