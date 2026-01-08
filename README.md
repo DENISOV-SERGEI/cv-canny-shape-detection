@@ -30,9 +30,13 @@
 git clone https://github.com/DENISOV-SERGEI
 /canny-shape-detection.git
 
-cd canny-shape-detection
-
+```markdown
+3. Установить зависимости:
+```bash
 pip install -r requirements.txt
+
+4. Открыть и выполнить ноутбук:
+...
 
 
 ## ⚙️ Алгоритм работы
