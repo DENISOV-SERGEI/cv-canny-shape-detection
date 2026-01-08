@@ -34,7 +34,6 @@ cd canny-shape-detection
 
 pip install -r requirements.txt
 
-```python
 
 ## ⚙️ Алгоритм работы
 
