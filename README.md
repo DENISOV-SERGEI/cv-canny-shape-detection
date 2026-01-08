@@ -38,7 +38,7 @@
 Для выделения границ используется алгоритм **Canny Edge Detection**:
 
 ```python
-edged = cv2.Canny(gray_blurred, 10, 50)
+
 
 ---
 
