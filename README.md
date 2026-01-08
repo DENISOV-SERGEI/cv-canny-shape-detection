@@ -23,6 +23,18 @@
 
 ---
 
+## 🚀 How to run
+
+1. Клонировать репозиторий:
+```bash
+git clone https://github.com/DENISOV-SERGEI
+/canny-shape-detection.git
+
+cd canny-shape-detection
+
+pip install -r requirements.txt
+
+
 ## ⚙️ Алгоритм работы
 
 ### 1. Загрузка и предварительная обработка изображения
