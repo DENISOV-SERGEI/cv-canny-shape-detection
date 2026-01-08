@@ -36,7 +36,7 @@
 
 ### 2. Выделение границ
 Для выделения границ используется алгоритм **Canny Edge Detection**:
-
+edged = cv2.Canny(gray_blurred, 10, 50)
 
 
 
