@@ -39,8 +39,10 @@ cd canny-shape-detection
 pip install -r requirements.txt
 ```
 ### 4. Открыть и выполнить ноутбук:
-- открыть файл ```bash canny_shape_detection.ipynb
-  ```
+- открыть файл
+```bash
+canny_shape_detection.ipynb
+```
 - выполнить все ячейки последовательно
 
 
